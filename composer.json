@@ -27,7 +27,8 @@
                 "source": {
                     "url": "https://github.com/technobulka/bootstrap-year-calendar.git",
                     "type": "git"
-                },
+                }
+            }
         }
     ],
     "require": {
