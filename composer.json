@@ -20,20 +20,8 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "package": {
-                "name": "technobulka/bootstrap-year-calendar",
-                "source": {
-                    "url": "https://github.com/technobulka/bootstrap-year-calendar.git",
-                    "type": "git"
-                }
-            }
-        }
-    ],
     "require": {
-        "yiisoft/yii2-bootstrap": "~2.0.0 || ~2.1.0",
-        "technobulka/bootstrap-year-calendar": "~1.1"
+        "yiisoft/yii2-bootstrap": "~2.0.0 || ~2.1.0"
     },
     "autoload": {
         "psr-4": {
