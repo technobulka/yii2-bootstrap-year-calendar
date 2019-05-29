@@ -22,13 +22,8 @@
     ],
     "repositories": [
         {
-            "package": {
-                "name": "technobulka/bootstrap-year-calendar",
-                "source": {
-                    "url": "https://github.com/technobulka/bootstrap-year-calendar.git",
-                    "type": "git"
-                }
-            }
+            "type": "vcs",
+            "url":  "git@github.com:technobulka/bootstrap-year-calendar.git"
         }
     ],
     "require": {
