@@ -23,12 +23,6 @@
     "require": {
         "yiisoft/yii2-bootstrap": "~2.0.0 || ~2.1.0"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:technobulka/bootstrap-year-calendar.git"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "tecnocen\\yearcalendar\\": ""
