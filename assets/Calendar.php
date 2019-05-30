@@ -11,7 +11,7 @@ class Calendar extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@technobulka/bootstrap-year-calendar';
+    public $sourcePath = '@vendor/technobulka/bootstrap-year-calendar';
     /**
      * @inheritdoc
      */
