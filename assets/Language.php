@@ -12,7 +12,7 @@ class Language extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@technobulka/bootstrap-year-calendar/js/languages/';
+    public $sourcePath = '@vendor/technobulka/bootstrap-year-calendar/js/languages/';
     /**
      * @var boolean whether to automatically generate the needed language js files.
      * If this is true, the language js files will be determined based on the actual usage of [[DatePicker]]
