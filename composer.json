@@ -22,7 +22,7 @@
     ],
     "require": {
         "yiisoft/yii2-bootstrap": "~2.0.0 || ~2.1.0",
-        "technobulka/bootstrap-year-calendar": "~1.1.0"
+        "technobulka/bootstrap-year-calendar": "dev-master"
     },
     "repositories": [
         {
